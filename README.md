@@ -25,3 +25,5 @@
  - Для запуска требуется наличие БД MySQL
  - Порт, пользователь, пароль и название БД указаны ниже
  - tcp://localhost:3306","root", "123123", "test3" или изменить данные под себя в файле Header.h
+ - ![foto ta](https://github.com/yuriykornienko/Trading-Opportunity/assets/135270951/a932f6fd-0b68-4d44-af25-f757cd2ef50a)
+
